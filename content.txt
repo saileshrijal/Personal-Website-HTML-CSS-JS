@@ -1,0 +1,107 @@
+Colors
+========
+Brand Color: #00bfa6;
+
+Fonts
+======
+Poppins
+
+Pages
+======
+index/about
+resume
+blogs
+services
+contact
+
+
+
+
+Content (Add your own Content. This is a dummy Content)
+===============================================
+
+About Me
+---------
+
+Name: John Roe
+Post: Web Designer
+
+facebook: https://facebook.com/alivecoder
+instagram: https://instagram.com/alivecoder
+github: https://github.com/alivecoder0
+
+
+Date of Birth       : July 3, 2000
+Gender              : Male
+Age                 : 20 Years Old
+Maritial Status     : Unmarried
+Nationality         : Nepali
+Religion            : Hindu
+
+
+Profession          : Web Designer
+Address             : Jhapa Nepal
+Contact             : +977 9800000000
+Email               : email@gmail.com
+Website             : mywebsite.com
+Freelance           : Available
+
+
+Resume
+--------
+
+Experience:
+
+2019-Present - Art Director - Google Inc
+
+2016-2019 - Developer - Microsoft
+
+2014-2016 Designer - AliveCoder
+
+
+Education
+
+2017-Present - Information Technology - Gomendra College
+
+2015-2017 - Computer Scince - Amity College
+
+2014-2015 - Prgramming - AliveCoder Institue
+
+
+My Skills
+---------
+
+Design:
+
+Wordpress
+Photoshop
+Figma
+
+Coding
+
+C#
+C/C++
+HTML/CSS/JS
+
+
+
+
+My Blogs
+===========
+
+This is the Title of my first blog
+
+This is the title of my second blog
+
+This is the title of my third blog
+
+
+My Services
+============
+
+App Development
+Website Development
+Web Design
+Logo Desing
+Figma Desing
+SEO/Marketing
